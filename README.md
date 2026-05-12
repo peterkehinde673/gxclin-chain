@@ -40,3 +40,6 @@ Testnet Phase
 - Roadmap (roadmap.md)  
 - Utility (utility.md)  
 - Progress (progress.md)  
+
+## 🌐 Part of Kehinde Labs
+Gxclin is part of the Kehinde Labs ecosystem.
